@@ -45,7 +45,3 @@ Ruiqing Chen*, <strong>Xiaoyuan Zhang*</strong>, Yali Du, Yifan Zhong, Zheng Tia
 
 # 🎖 Honors and Awards
 - Honour Bachelor (Top academic honor for graduates in HUST on outstanding academic performance)
-
-# 📖 Educations
-- *2023.06 - (now)*, Peking University
-- *2019.09 - 2023.06*, Huazhong University of Science and Technology
