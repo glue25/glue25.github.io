@@ -44,7 +44,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 </p>
 
 # 🎖 Honors and Awards
-- Honour Bachelor (Top academic honor for graduates in HUST on outstanding academic performance, 199/6500≈3%)
+- Honour Bachelor (Top academic honor for graduates in HUST on outstanding academic performance)
 
 # 📖 Educations
 - *2023.06 - (now)*, Peking University
