@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of  <a href='https://zhusongchun.net/'> Prof.Song-Chun Zhu and  <a href='https://www.yangyaodong.com/'>Prof.Yaodong Yang. Before that, I obtained my bachelor degree from the Department of Electronics and Information Engineering at Huazhong University of Science and Technology (HUST). My research interests include reinforcement learning, world model and their intersection with fundamental science. Please do not hesitate to reach out to me!
+I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of  <a href='https://zhusongchun.net/'> Prof.Song-Chun Zhu and  <a href='https://www.yangyaodong.com/'> Prof.Yaodong Yang. Before that, I obtained my bachelor degree from the Department of Electronics and Information Engineering at Huazhong University of Science and Technology (HUST). My research interests include reinforcement learning, world model and their intersection with fundamental science. Please do not hesitate to reach out to me!
 
 # 🔥 News
 
