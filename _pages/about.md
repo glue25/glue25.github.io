@@ -24,7 +24,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 # 📝 Publications 
 <p>
 <strong>CivRealm: A learning and reasoning odyssey in Civilization for decision-making agents</strong><br>
-Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong， <strong>Xiaoyuan Zhang</strong>, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu <br>
+Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong，<strong>Xiaoyuan Zhang</strong>, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu <br>
 <em>ICLR 2024 (Spotlight)</em><br>
 <a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
 </p>
