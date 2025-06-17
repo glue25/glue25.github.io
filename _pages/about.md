@@ -38,7 +38,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 <p>
 <strong>Off-Agent Trust Region Policy Optimization</strong><br>
-<strong> Ruiqing Chen*, Xiaoyuan Zhang*, Yali Du, Yifan Zhong, Zheng Tian, Fanglei Sun, Yaodong Yang(* equal contribution)<br>
+<strong> Ruiqing Chen*, Xiaoyuan Zhang*, Yali Du, Yifan Zhong, Zheng Tian, Fanglei Sun, Yaodong Yang (* equal contribution)<br>
 <em>IJCAI 2024</em><br>
 <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/275562544/IJCAI_24_Formatting_Instructions_2_1_.pdf">[Paper]</a>
 </p>
