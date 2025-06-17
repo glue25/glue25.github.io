@@ -25,22 +25,19 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 <p>
 <strong>CivRealm: A learning and reasoning odyssey in Civilization for decision-making agents</strong><br>
 Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong，<strong>Xiaoyuan Zhang</strong>, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu <br>
-<em>ICLR 2024 (Spotlight)</em><br>
-<a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
+<em>ICLR 2024 (Spotlight)</em> <a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
 </p>
 
 <p>
 <strong>Differentiable Information Enhanced Model-Based Reinforcement Learning</strong><br>
 <strong>Xiaoyuan Zhang</strong>, Xinyan Cai, Bo Liu, Weidong Huang, Song-Chun Zhu, Siyuan Qi, Yaodong Yang<br>
-<em>AAAI 2025</em><br>
-<a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
+<em>AAAI 2025</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
 </p>
 
 <p>
 <strong>Off-Agent Trust Region Policy Optimization</strong><br>
 Ruiqing Chen*, <strong>Xiaoyuan Zhang*</strong>, Yali Du, Yifan Zhong, Zheng Tian, Fanglei Sun, Yaodong Yang (* equal contribution)<br>
-<em>IJCAI 2024</em><br>
-<a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/275562544/IJCAI_24_Formatting_Instructions_2_1_.pdf">[Paper]</a>
+<em>IJCAI 2024</em><br> <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/275562544/IJCAI_24_Formatting_Instructions_2_1_.pdf">[Paper]</a>
 </p>
 
 # 🎖 Honors and Awards
