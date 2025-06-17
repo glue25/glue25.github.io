@@ -24,23 +24,23 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 # 📝 Publications 
 <p>
 <strong>CivRealm: A learning and reasoning odyssey in Civilization for decision-making agents</strong><br>
-Shengmin Qi*, Shuai Chen*, Yilun Li*, Xingdi Kong, Jiaming Wang, Biyi Yang, Pinyuan Wong, Yuxuan Zhong, <strong>Xinyu Zhang</strong>, ... (* equal contribution)<br>
+<strong>Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong, Xiaoyuan Zhang, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhug<br>
 <em>ICLR 2024 (Spotlight)</em><br>
-<a href="https://openreview.net/pdf?id=3aB04dCAb1">[Paper]</a> | <a href="https://sites.google.com/view/civrealm">[Project Page]</a> | <a href="https://github.com/CivRealm/CivRealm">[Code]</a>
+<a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
 </p>
 
 <p>
 <strong>Differentiable Information Enhanced Model-Based Reinforcement Learning</strong><br>
-<strong>Xinyu Zhang</strong>*, Xianyuan Cai*, Boyi Liu, Wenxuan Huang, Song-Chun Zhu, Shengmin Qi, Yixin Yang (* equal contribution)<br>
-<em>AAAI 2024</em><br>
-<a href="https://arxiv.org/abs/2312.10306">[Paper]</a> | <a href="https://github.com/pku-rl/DIEM">[Code]</a>
+<strong>Xiaoyuan Zhang, Xinyan Cai, Bo Liu, Weidong Huang, Song-Chun Zhu, Siyuan Qi, Yaodong Yang<br>
+<em>AAAI 2025</em><br>
+<a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
 </p>
 
 <p>
 <strong>Off-Agent Trust Region Policy Optimization</strong><br>
-Ruihan Chen, <strong>Xinyu Zhang</strong>, Yuzheng Du, Yuxuan Zhong, Zihan Tian, Fuxiang Sun, Yixin Yang<br>
+<strong> Ruiqing Chen*, Xiaoyuan Zhang*, Yali Du, Yifan Zhong, Zheng Tian, Fanglei Sun, Yaodong Yang(* equal contribution)<br>
 <em>IJCAI 2024</em><br>
-<a href="https://arxiv.org/abs/2405.02102">[Paper]</a>
+<a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/275562544/IJCAI_24_Formatting_Instructions_2_1_.pdf">[Paper]</a>
 </p>
 
 # 🎖 Honors and Awards
