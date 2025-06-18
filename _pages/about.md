@@ -42,3 +42,7 @@ Ruiqing Chen*, <strong>Xiaoyuan Zhang*</strong>, Yali Du, Yifan Zhong, Zheng Tia
 
 # 🎖 Honors and Awards
 - Honour Bachelor (Top academic honor for graduates in HUST on outstanding academic performance)
+
+# 💬 Service and Teaching
+- Teaching Assistant for "Computer Vision I" (2024 Fall).  <a href="https://pku.vision/"> [Website]
+- Teaching Assistant for "Multi-Agent System" (2025 Spring).  <a href="https://pku-mas.com/"> [Website]
