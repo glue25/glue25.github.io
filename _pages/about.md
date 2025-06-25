@@ -31,7 +31,7 @@ Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring 
 <p>
 <strong>Differentiable Information Enhanced Model-Based Reinforcement Learning</strong><br>
 <strong>Xiaoyuan Zhang</strong>, Xinyan Cai, Bo Liu, Weidong Huang, Song-Chun Zhu, Siyuan Qi, Yaodong Yang<br>
-<em>AAAI 2025</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
+<em>AAAI 2025 (Oral)</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
 </p>
 
 <p>
