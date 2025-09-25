@@ -23,21 +23,29 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 # 📝 Publications 
 <p>
-<strong>CivRealm: A learning and reasoning odyssey in Civilization for decision-making agents</strong><br>
-Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong，<strong>Xiaoyuan Zhang</strong>, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu <br>
-<em>ICLR 2024 (Spotlight)</em> <a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
-</p>
-
-<p>
 <strong>Differentiable Information Enhanced Model-Based Reinforcement Learning</strong><br>
 <strong>Xiaoyuan Zhang</strong>, Xinyan Cai, Bo Liu, Weidong Huang, Song-Chun Zhu, Siyuan Qi, Yaodong Yang<br>
 <em>AAAI 2025 (Oral)</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
 </p>
-
+<p>
+<strong>Social World Model-Augmented Mechanism Design Policy Learning</strong><br>
+<strong>Xiaoyuan Zhang</strong>, Yizhe Huang, Chengdong Ma, Zhixun Chen, Long Ma, Yali Du, Song-chun Zhu, Yaodong Yang, Xue Feng<br>
+<em>NeurIPS 2025 </em> <a href="https://neurips.cc/virtual/2025/poster/115517">[Paper]</a>
+</p>
+<p>
+<strong>CivRealm: A learning and reasoning odyssey in Civilization for decision-making agents</strong><br>
+Siyuan Qi, Shuo Chen, Yexin Li, Xiangyu Kong, Junqi Wang, Bangcheng Yang, Pring Wong, Yifan Zhong，<strong>Xiaoyuan Zhang</strong>, Zhaowei Zhang, Nian Liu, Wei Wang, Yaodong Yang, Song-Chun Zhu <br>
+<em>ICLR 2024 (Spotlight)</em> <a href="https://arxiv.org/pdf/2401.10568">[Paper]</a>
+</p>
 <p>
 <strong>Off-Agent Trust Region Policy Optimization</strong><br>
 Ruiqing Chen*, <strong>Xiaoyuan Zhang*</strong>, Yali Du, Yifan Zhong, Zheng Tian, Fanglei Sun, Yaodong Yang (* equal contribution)<br>
 <em>IJCAI 2024</em> <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/275562544/IJCAI_24_Formatting_Instructions_2_1_.pdf">[Paper]</a>
+</p>
+<p>
+<strong>Enhancing LLM-Based Social Bot via an Adversarial Learning Framework</strong><br>
+Fanqi Kong, <strong>Xiaoyuan Zhang</strong>, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng<br>
+<em>EMNLP 2025 (Oral)</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
 </p>
 
 # 🎖 Honors and Awards
