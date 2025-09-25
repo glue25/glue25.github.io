@@ -45,7 +45,7 @@ Ruiqing Chen*, <strong>Xiaoyuan Zhang*</strong>, Yali Du, Yifan Zhong, Zheng Tia
 <p>
 <strong>Enhancing LLM-Based Social Bot via an Adversarial Learning Framework</strong><br>
 Fanqi Kong, <strong>Xiaoyuan Zhang</strong>, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng<br>
-<em>EMNLP 2025 (Oral)</em> <a href="https://arxiv.org/abs/2503.01178">[Paper]</a>
+<em>EMNLP 2025 (Oral)</em> <a href="https://arxiv.org/html/2508.17711v1">[Paper]</a>
 </p>
 
 # 🎖 Honors and Awards
