@@ -29,7 +29,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 </p>
 <p>
 <strong>Social World Model-Augmented Mechanism Design Policy Learning</strong><br>
-<strong>Xiaoyuan Zhang*</strong>, Yizhe Huang*, Chengdong Ma, Zhixun Chen, Long Ma, Yali Du, Song-chun Zhu, Yaodong Yang, Xue Feng(* equal contribution)<br>
+<strong>Xiaoyuan Zhang*</strong>, Yizhe Huang*, Chengdong Ma, Zhixun Chen, Long Ma, Yali Du, Song-chun Zhu, Yaodong Yang, Xue Feng (* equal contribution)<br>
 <em>NeurIPS 2025 </em> <a href="https://neurips.cc/virtual/2025/poster/115517">[Paper]</a>
 </p>
 <strong>World Models Should Prioritize the Unification of Physical and Social Dynamics</strong><br>
