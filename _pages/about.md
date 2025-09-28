@@ -32,6 +32,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 <strong>Xiaoyuan Zhang* </strong>, Yizhe Huang*, Chengdong Ma, Zhixun Chen, Long Ma, Yali Du, Song-chun Zhu, Yaodong Yang, Xue Feng (* equal contribution)<br>
 <em>NeurIPS 2025 </em> <a href="https://neurips.cc/virtual/2025/poster/115517">[Paper]</a>
 </p>
+<p>
 <strong>World Models Should Prioritize the Unification of Physical and Social Dynamics</strong><br>
 <strong>Xiaoyuan Zhang* </strong>, Chengdong Ma*, Yizhe Huang, Weidong Huang, Siyuan Qi, Song-Chun Zhu, Xue Feng, Yaodong Yang (* equal contribution)<br>
 <em>NeurIPS 2025 Position Paper </em> <a href="https://neurips.cc/virtual/2025/poster/121932">[Paper]</a>
